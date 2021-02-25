@@ -1,12 +1,26 @@
 # fcc-build-a-tribute-page
-Free Code Camp Responsive Web Design Build a Tribute Page Project
 
-Link to FCC project page:
+### Free Code Camp Responsive Web Design Build a Tribute Page Project
+
+#### Technologies used:
+
+* HTML
+* CSS
+
+---
+
+### Link to FCC project page:
 https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
 
-Link to live project page:
+---
 
-User Stories:
+### Link to live project page:
+
+https://larrytooley.github.io/fcc-build-a-tribute-page/
+
+---
+
+### User Stories:
 
 * User Story #1: My tribute page should have an element with a corresponding id="main", which contains all other elements.
 
